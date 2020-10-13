@@ -1,5 +1,7 @@
 # lesson3HandsOn
 
+I really struggled to figure out exactly how to reverse the output order of the array. Thanks to a Google search I was able to finally figure it out and successfully obtain the desired output.
+
 Requirements
 Create an array of the following items:
 Emily
