@@ -13,11 +13,10 @@ namespace lesson3HandsOn
                     Console.WriteLine("Have you seen " + names[i] + "?");
                 } */
             
-                for (int i = 0; i >= names.Length; i--)
+                for (int i = names.Length -1; i >= 0; i--)
                 {
                     Console.WriteLine("Have you seen " + names[i] + "?");
                 }
-                        
 
         }
     }
